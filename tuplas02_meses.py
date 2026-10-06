@@ -1,0 +1,5 @@
+meses = ("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre")
+print("Primer trimestre:", meses[0:3])
+print("Época lluviosa:", meses[4:10])
+print("Meses con número par:", meses[1:12:2])
+print("Últimos tres al revés:", meses[11:8:-1])
